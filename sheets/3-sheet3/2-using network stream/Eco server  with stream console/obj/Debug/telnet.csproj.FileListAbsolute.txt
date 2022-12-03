@@ -1,0 +1,24 @@
+G:\fourth_year\422\1-network programming\abdo\sheets\section4\telnet\bin\Debug\telnet.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\section4\telnet\bin\Debug\telnet.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\section4\telnet\bin\Debug\telnet.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\section4\telnet\obj\Debug\telnet.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\section4\telnet\obj\Debug\telnet.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\section4\telnet\obj\Debug\telnet.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\section4\telnet\obj\Debug\telnet.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\section4\telnet\obj\Debug\telnet.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\telnet\bin\Debug\telnet.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\telnet\bin\Debug\telnet.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\telnet\bin\Debug\telnet.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\telnet\obj\Debug\telnet.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\telnet\obj\Debug\telnet.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\telnet\obj\Debug\telnet.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\telnet\obj\Debug\telnet.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\telnet\obj\Debug\telnet.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Eco server  with stream\bin\Debug\telnet.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Eco server  with stream\bin\Debug\telnet.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Eco server  with stream\bin\Debug\telnet.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Eco server  with stream\obj\Debug\telnet.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Eco server  with stream\obj\Debug\telnet.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Eco server  with stream\obj\Debug\telnet.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Eco server  with stream\obj\Debug\telnet.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Eco server  with stream\obj\Debug\telnet.pdb

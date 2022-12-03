@@ -1,0 +1,11 @@
+G:\fourth_year\422\1-network programming\abdo\sheets\5\quize\bin\Debug\quize.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\5\quize\bin\Debug\quize.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\5\quize\bin\Debug\quize.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\5\quize\obj\Debug\quize.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\5\quize\obj\Debug\quize.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\5\quize\obj\Debug\quize.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\5\quize\obj\Debug\quize.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\5\quize\obj\Debug\quize.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\5\quize\obj\Debug\quize.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\5\quize\obj\Debug\quize.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\5\quize\obj\Debug\quize.pdb

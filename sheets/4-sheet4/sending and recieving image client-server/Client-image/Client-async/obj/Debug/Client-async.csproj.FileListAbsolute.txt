@@ -1,0 +1,33 @@
+C:\me\visual studio projects\study of mid\Client-async\Client-async\bin\Debug\Client-async.exe.config
+C:\me\visual studio projects\study of mid\Client-async\Client-async\bin\Debug\Client-async.exe
+C:\me\visual studio projects\study of mid\Client-async\Client-async\bin\Debug\Client-async.pdb
+C:\me\visual studio projects\study of mid\Client-async\Client-async\obj\Debug\Client-async.csproj.AssemblyReference.cache
+C:\me\visual studio projects\study of mid\Client-async\Client-async\obj\Debug\Client-async.csproj.SuggestedBindingRedirects.cache
+C:\me\visual studio projects\study of mid\Client-async\Client-async\obj\Debug\Client_async.Form1.resources
+C:\me\visual studio projects\study of mid\Client-async\Client-async\obj\Debug\Client_async.Properties.Resources.resources
+C:\me\visual studio projects\study of mid\Client-async\Client-async\obj\Debug\Client-async.csproj.GenerateResource.cache
+C:\me\visual studio projects\study of mid\Client-async\Client-async\obj\Debug\Client-async.csproj.CoreCompileInputs.cache
+C:\me\visual studio projects\study of mid\Client-async\Client-async\obj\Debug\Client-async.exe
+C:\me\visual studio projects\study of mid\Client-async\Client-async\obj\Debug\Client-async.pdb
+C:\Users\Abdallah Abdalbasset\Desktop\Client-async\Client-async\bin\Debug\Client-async.exe.config
+C:\Users\Abdallah Abdalbasset\Desktop\Client-async\Client-async\bin\Debug\Client-async.exe
+C:\Users\Abdallah Abdalbasset\Desktop\Client-async\Client-async\bin\Debug\Client-async.pdb
+C:\Users\Abdallah Abdalbasset\Desktop\Client-async\Client-async\obj\Debug\Client-async.csproj.AssemblyReference.cache
+C:\Users\Abdallah Abdalbasset\Desktop\Client-async\Client-async\obj\Debug\Client-async.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdallah Abdalbasset\Desktop\Client-async\Client-async\obj\Debug\Client_async.Form1.resources
+C:\Users\Abdallah Abdalbasset\Desktop\Client-async\Client-async\obj\Debug\Client_async.Properties.Resources.resources
+C:\Users\Abdallah Abdalbasset\Desktop\Client-async\Client-async\obj\Debug\Client-async.csproj.GenerateResource.cache
+C:\Users\Abdallah Abdalbasset\Desktop\Client-async\Client-async\obj\Debug\Client-async.csproj.CoreCompileInputs.cache
+C:\Users\Abdallah Abdalbasset\Desktop\Client-async\Client-async\obj\Debug\Client-async.exe
+C:\Users\Abdallah Abdalbasset\Desktop\Client-async\Client-async\obj\Debug\Client-async.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\4-sheet4\sending and recieving image client-server\Client-image\Client-async\bin\Debug\Client-async.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\4-sheet4\sending and recieving image client-server\Client-image\Client-async\bin\Debug\Client-async.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\4-sheet4\sending and recieving image client-server\Client-image\Client-async\bin\Debug\Client-async.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\4-sheet4\sending and recieving image client-server\Client-image\Client-async\obj\Debug\Client-async.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\4-sheet4\sending and recieving image client-server\Client-image\Client-async\obj\Debug\Client-async.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\4-sheet4\sending and recieving image client-server\Client-image\Client-async\obj\Debug\Client_async.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\4-sheet4\sending and recieving image client-server\Client-image\Client-async\obj\Debug\Client_async.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\4-sheet4\sending and recieving image client-server\Client-image\Client-async\obj\Debug\Client-async.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\4-sheet4\sending and recieving image client-server\Client-image\Client-async\obj\Debug\Client-async.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\4-sheet4\sending and recieving image client-server\Client-image\Client-async\obj\Debug\Client-async.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\4-sheet4\sending and recieving image client-server\Client-image\Client-async\obj\Debug\Client-async.pdb

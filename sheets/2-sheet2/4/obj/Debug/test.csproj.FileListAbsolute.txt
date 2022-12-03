@@ -1,0 +1,16 @@
+G:\fourth_year\422\1-network programming\abdo\test\bin\Debug\test.exe.config
+G:\fourth_year\422\1-network programming\abdo\test\bin\Debug\test.exe
+G:\fourth_year\422\1-network programming\abdo\test\bin\Debug\test.pdb
+G:\fourth_year\422\1-network programming\abdo\test\obj\Debug\test.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\test\obj\Debug\test.exe
+G:\fourth_year\422\1-network programming\abdo\test\obj\Debug\test.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\2-sheet2\4\bin\Debug\test.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\2-sheet2\4\bin\Debug\test.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\2-sheet2\4\bin\Debug\test.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\2-sheet2\4\obj\Debug\test.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\2-sheet2\4\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\2-sheet2\4\obj\Debug\test.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\2-sheet2\4\obj\Debug\test.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\2-sheet2\4\obj\Debug\test.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16409138-c327-4728-a0c9-dea5d2beca1c": {
+      "ProjectGuid": "16409138-c327-4728-a0c9-dea5d2beca1c",
+      "DisplayName": "Client-async",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

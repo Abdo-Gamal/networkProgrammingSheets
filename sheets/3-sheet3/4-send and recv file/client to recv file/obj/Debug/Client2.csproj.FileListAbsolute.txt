@@ -1,0 +1,33 @@
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\bin\Debug\Client2.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\bin\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\bin\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\clent3\bin\Debug\Client2.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\clent3\bin\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\clent3\bin\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\clent3\obj\Debug\Client2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\clent3\obj\Debug\Client2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\clent3\obj\Debug\Client2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\clent3\obj\Debug\Client2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\clent3\obj\Debug\Client2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\clent3\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\clent3\obj\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\clent3\obj\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\client to recv file\bin\Debug\Client2.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\client to recv file\bin\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\client to recv file\bin\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\client to recv file\obj\Debug\Client2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\client to recv file\obj\Debug\Client2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\client to recv file\obj\Debug\Client2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\client to recv file\obj\Debug\Client2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\client to recv file\obj\Debug\Client2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\client to recv file\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\client to recv file\obj\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\client to recv file\obj\Debug\Client2.pdb

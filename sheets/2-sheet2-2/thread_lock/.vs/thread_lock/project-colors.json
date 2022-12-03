@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "708296dd-90c8-4794-9ae4-daf7cff7040f": {
+      "ProjectGuid": "708296dd-90c8-4794-9ae4-daf7cff7040f",
+      "DisplayName": "thread_lock",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

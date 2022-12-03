@@ -1,0 +1,11 @@
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\second\MyClientSentImage\bin\Debug\MyClientSentImage.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\second\MyClientSentImage\bin\Debug\MyClientSentImage.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\second\MyClientSentImage\bin\Debug\MyClientSentImage.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\second\MyClientSentImage\obj\Debug\MyClientSentImage.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\second\MyClientSentImage\obj\Debug\MyClientSentImage.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\second\MyClientSentImage\obj\Debug\MyClientSentImage.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\second\MyClientSentImage\obj\Debug\MyClientSentImage.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\second\MyClientSentImage\obj\Debug\MyClientSentImage.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\second\MyClientSentImage\obj\Debug\MyClientSentImage.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\second\MyClientSentImage\obj\Debug\MyClientSentImage.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\second\MyClientSentImage\obj\Debug\MyClientSentImage.pdb

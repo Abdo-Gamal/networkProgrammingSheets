@@ -1,0 +1,8 @@
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex6\bin\Debug\ex6.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex6\bin\Debug\ex6.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex6\bin\Debug\ex6.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex6\obj\Debug\ex6.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex6\obj\Debug\ex6.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex6\obj\Debug\ex6.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex6\obj\Debug\ex6.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex6\obj\Debug\ex6.pdb

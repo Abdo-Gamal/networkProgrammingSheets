@@ -1,0 +1,22 @@
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\MSserverGUI\bin\Debug\MSserverGUI.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\MSserverGUI\bin\Debug\MSserverGUI.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\MSserverGUI\bin\Debug\MSserverGUI.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\MSserverGUI\obj\Debug\MyserverGUI.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\MSserverGUI\obj\Debug\MyserverGUI.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\MSserverGUI\obj\Debug\MSserverGUI.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\MSserverGUI\obj\Debug\MSserverGUI.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\MSserverGUI\obj\Debug\MyserverGUI.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\MSserverGUI\obj\Debug\MyserverGUI.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\MSserverGUI\obj\Debug\MSserverGUI.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\MSserverGUI\obj\Debug\MSserverGUI.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\first problem\MSserverGUI\bin\Debug\MSserverGUI.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\first problem\MSserverGUI\bin\Debug\MSserverGUI.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\first problem\MSserverGUI\bin\Debug\MSserverGUI.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\first problem\MSserverGUI\obj\Debug\MyServerGUI.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\first problem\MSserverGUI\obj\Debug\MyServerGUI.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\first problem\MSserverGUI\obj\Debug\MSserverGUI.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\first problem\MSserverGUI\obj\Debug\MSserverGUI.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\first problem\MSserverGUI\obj\Debug\MyServerGUI.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\first problem\MSserverGUI\obj\Debug\MyServerGUI.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\first problem\MSserverGUI\obj\Debug\MSserverGUI.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet4\first problem\MSserverGUI\obj\Debug\MSserverGUI.pdb

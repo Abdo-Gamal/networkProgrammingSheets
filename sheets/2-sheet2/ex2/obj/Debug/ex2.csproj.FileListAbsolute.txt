@@ -1,0 +1,11 @@
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex2\obj\Debug\ex2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex2\obj\Debug\ex2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex2\obj\Debug\ex2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex2\obj\Debug\ex2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex2\obj\Debug\ex2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex2\bin\Debug\ex2.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex2\bin\Debug\ex2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex2\bin\Debug\ex2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex2\obj\Debug\ex2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet2\ex2\obj\Debug\ex2.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09387dae-4e5c-40f8-9045-94756d179432": {
+      "ProjectGuid": "09387dae-4e5c-40f8-9045-94756d179432",
+      "DisplayName": "MyServerGUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,2 @@
+TextSimpleTypes+Point
+TextSimpleTypes+Die

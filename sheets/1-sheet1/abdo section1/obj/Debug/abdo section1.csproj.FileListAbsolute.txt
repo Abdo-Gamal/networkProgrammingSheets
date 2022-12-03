@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\abdo section1\abdo section1\bin\Debug\abdo section1.exe.config
+C:\Users\User\Desktop\abdo section1\abdo section1\bin\Debug\abdo section1.exe
+C:\Users\User\Desktop\abdo section1\abdo section1\bin\Debug\abdo section1.pdb
+C:\Users\User\Desktop\abdo section1\abdo section1\obj\Debug\abdo section1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\abdo section1\abdo section1\obj\Debug\abdo_section1.Form1.resources
+C:\Users\User\Desktop\abdo section1\abdo section1\obj\Debug\abdo_section1.Properties.Resources.resources
+C:\Users\User\Desktop\abdo section1\abdo section1\obj\Debug\abdo section1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\abdo section1\abdo section1\obj\Debug\abdo section1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\abdo section1\abdo section1\obj\Debug\abdo section1.exe
+C:\Users\User\Desktop\abdo section1\abdo section1\obj\Debug\abdo section1.pdb

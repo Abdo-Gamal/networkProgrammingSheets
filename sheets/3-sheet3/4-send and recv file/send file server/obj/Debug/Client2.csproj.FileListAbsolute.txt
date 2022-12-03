@@ -1,0 +1,55 @@
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\bin\Debug\Client2.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\bin\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\bin\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\Client2\obj\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\Client2\bin\Debug\Client2.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\Client2\bin\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\Client2\bin\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\Client2\obj\Debug\Client2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\Client2\obj\Debug\Client2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\Client2\obj\Debug\Client2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\Client2\obj\Debug\Client2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\Client2\obj\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\Client2\obj\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\eco server 0 GUI\obj\Debug\Client2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\eco server 0 GUI\obj\Debug\Client2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\eco server 0 GUI\obj\Debug\Client2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\eco server 0 GUI\obj\Debug\Client2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\eco server 0 GUI\obj\Debug\Client2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\eco server 0 GUI\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\eco server 0 GUI\obj\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\eco server 0 GUI\obj\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\eco server 0 GUI\bin\Debug\Client2.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\eco server 0 GUI\bin\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\1\eco server 0 GUI\bin\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\2\eco server 1 GUI\bin\Debug\Client2.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\2\eco server 1 GUI\bin\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\2\eco server 1 GUI\bin\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\2\eco server 1 GUI\obj\Debug\Client2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\2\eco server 1 GUI\obj\Debug\Client2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\2\eco server 1 GUI\obj\Debug\Client2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\2\eco server 1 GUI\obj\Debug\Client2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\2\eco server 1 GUI\obj\Debug\Client2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\2\eco server 1 GUI\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\2\eco server 1 GUI\obj\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\2\eco server 1 GUI\obj\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\3\send file server\bin\Debug\Client2.exe.config
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\3\send file server\bin\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\3\send file server\bin\Debug\Client2.pdb
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\3\send file server\obj\Debug\Client2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\3\send file server\obj\Debug\Client2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\3\send file server\obj\Debug\Client2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\3\send file server\obj\Debug\Client2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\3\send file server\obj\Debug\Client2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\3\send file server\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\3\send file server\obj\Debug\Client2.exe
+G:\fourth_year\422\1-network programming\abdo\sheets\sheet3\3\send file server\obj\Debug\Client2.pdb

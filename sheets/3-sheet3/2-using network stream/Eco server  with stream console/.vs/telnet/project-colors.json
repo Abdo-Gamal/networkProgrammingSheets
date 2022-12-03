@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a23c8a13-2a51-477e-af12-a35975239b49": {
+      "ProjectGuid": "a23c8a13-2a51-477e-af12-a35975239b49",
+      "DisplayName": "telnet",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
