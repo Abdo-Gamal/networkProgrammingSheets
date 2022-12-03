@@ -1,0 +1,16 @@
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9S37File\bin\Debug\ex9S37File.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9S37File\bin\Debug\ex9S37File.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9S37File\bin\Debug\ex9S37File.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9S37File\obj\Debug\ex9S37File.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9S37File\obj\Debug\ex9S37File.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9S37File\obj\Debug\ex9S37File.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9S37File\obj\Debug\ex9S37File.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9S37File\obj\Debug\ex9S37File.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\1\ex9S37File\bin\Debug\ex9S37File.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\1\ex9S37File\bin\Debug\ex9S37File.exe
+G:\fourth_year\422\1-network programming\abdo\slide\1\ex9S37File\bin\Debug\ex9S37File.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\1\ex9S37File\obj\Debug\ex9S37File.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\1\ex9S37File\obj\Debug\ex9S37File.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\1\ex9S37File\obj\Debug\ex9S37File.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\1\ex9S37File\obj\Debug\ex9S37File.exe
+G:\fourth_year\422\1-network programming\abdo\slide\1\ex9S37File\obj\Debug\ex9S37File.pdb

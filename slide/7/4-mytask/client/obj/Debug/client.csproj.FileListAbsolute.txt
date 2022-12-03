@@ -1,0 +1,11 @@
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\client\bin\Debug\client.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\client\bin\Debug\client.exe
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\client\bin\Debug\client.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\client\obj\Debug\client.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\client\obj\Debug\client.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\client\obj\Debug\client.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\client\obj\Debug\client.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\client\obj\Debug\client.exe
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\client\obj\Debug\client.pdb

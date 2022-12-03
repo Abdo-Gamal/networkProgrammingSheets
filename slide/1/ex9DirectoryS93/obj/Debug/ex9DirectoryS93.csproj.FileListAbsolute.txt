@@ -1,0 +1,8 @@
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9DirectoryS93\bin\Debug\ex9DirectoryS93.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9DirectoryS93\bin\Debug\ex9DirectoryS93.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9DirectoryS93\bin\Debug\ex9DirectoryS93.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9DirectoryS93\obj\Debug\ex9DirectoryS93.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9DirectoryS93\obj\Debug\ex9DirectoryS93.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9DirectoryS93\obj\Debug\ex9DirectoryS93.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9DirectoryS93\obj\Debug\ex9DirectoryS93.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex9DirectoryS93\obj\Debug\ex9DirectoryS93.pdb

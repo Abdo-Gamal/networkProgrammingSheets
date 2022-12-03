@@ -1,0 +1,8 @@
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\lockS33\bin\Debug\lockS33.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\lockS33\bin\Debug\lockS33.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\lockS33\bin\Debug\lockS33.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\lockS33\obj\Debug\lockS33.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\lockS33\obj\Debug\lockS33.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\lockS33\obj\Debug\lockS33.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\lockS33\obj\Debug\lockS33.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\lockS33\obj\Debug\lockS33.pdb

@@ -1,0 +1,8 @@
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex7S37\bin\Debug\ex7S37.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex7S37\bin\Debug\ex7S37.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex7S37\bin\Debug\ex7S37.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex7S37\obj\Debug\ex7S37.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex7S37\obj\Debug\ex7S37.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex7S37\obj\Debug\ex7S37.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex7S37\obj\Debug\ex7S37.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex7S37\obj\Debug\ex7S37.pdb

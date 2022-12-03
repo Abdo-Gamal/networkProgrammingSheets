@@ -1,0 +1,8 @@
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\examble3s19\bin\Debug\examble3s19.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\examble3s19\bin\Debug\examble3s19.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\examble3s19\bin\Debug\examble3s19.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\examble3s19\obj\Debug\examble3s19.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\examble3s19\obj\Debug\examble3s19.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\examble3s19\obj\Debug\examble3s19.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\examble3s19\obj\Debug\examble3s19.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\examble3s19\obj\Debug\examble3s19.pdb

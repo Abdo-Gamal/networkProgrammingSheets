@@ -1,0 +1,11 @@
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\quize1\bin\Debug\quize1.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\quize1\bin\Debug\quize1.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\quize1\bin\Debug\quize1.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\quize1\obj\Debug\quize1.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\quize1\obj\Debug\quize1.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\quize1\obj\Debug\quize1.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\quize1\obj\Debug\quize1.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\quize1\obj\Debug\quize1.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\quize1\obj\Debug\quize1.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\quize1\obj\Debug\quize1.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\quize1\obj\Debug\quize1.Form1.resources

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8fadf71-3aa4-4435-8b0c-16877dc9be5b": {
+      "ProjectGuid": "b8fadf71-3aa4-4435-8b0c-16877dc9be5b",
+      "DisplayName": "BinarySerializationExtraInfo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

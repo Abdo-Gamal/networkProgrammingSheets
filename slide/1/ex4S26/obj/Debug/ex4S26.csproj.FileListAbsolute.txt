@@ -1,0 +1,8 @@
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex4S26\bin\Debug\ex4S26.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex4S26\bin\Debug\ex4S26.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex4S26\bin\Debug\ex4S26.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex4S26\obj\Debug\ex4S26.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex4S26\obj\Debug\ex4S26.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex4S26\obj\Debug\ex4S26.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex4S26\obj\Debug\ex4S26.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec2\ex4S26\obj\Debug\ex4S26.pdb

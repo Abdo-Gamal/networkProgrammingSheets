@@ -1,0 +1,44 @@
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\server2\obj\Debug\server2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\server2\obj\Debug\server2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\server2\obj\Debug\server2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\server2\obj\Debug\server2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\server2\obj\Debug\server2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\server2\obj\Debug\server2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\server2\bin\Debug\server2.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\server2\bin\Debug\server2.exe
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\server2\bin\Debug\server2.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\server2\obj\Debug\server2.exe
+G:\fourth_year\422\1-network programming\abdo\slide\7\mytask\server2\obj\Debug\server2.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server2\bin\Debug\server2.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server2\bin\Debug\server2.exe
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server2\bin\Debug\server2.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server2\obj\Debug\server2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server2\obj\Debug\server2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server2\obj\Debug\server2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server2\obj\Debug\server2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server2\obj\Debug\server2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server2\obj\Debug\server2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server2\obj\Debug\server2.exe
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server2\obj\Debug\server2.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server\bin\Debug\server2.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server\bin\Debug\server2.exe
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server\bin\Debug\server2.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server\obj\Debug\server2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server\obj\Debug\server2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server\obj\Debug\server2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server\obj\Debug\server2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server\obj\Debug\server2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server\obj\Debug\server2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server\obj\Debug\server2.exe
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last\server\obj\Debug\server2.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last  verions1\server\bin\Debug\server2.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last  verions1\server\bin\Debug\server2.exe
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last  verions1\server\bin\Debug\server2.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last  verions1\server\obj\Debug\server2.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last  verions1\server\obj\Debug\server2.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last  verions1\server\obj\Debug\server2.Form1.resources
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last  verions1\server\obj\Debug\server2.Properties.Resources.resources
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last  verions1\server\obj\Debug\server2.csproj.GenerateResource.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last  verions1\server\obj\Debug\server2.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last  verions1\server\obj\Debug\server2.exe
+G:\fourth_year\422\1-network programming\abdo\slide\7\5-last  verions1\server\obj\Debug\server2.pdb

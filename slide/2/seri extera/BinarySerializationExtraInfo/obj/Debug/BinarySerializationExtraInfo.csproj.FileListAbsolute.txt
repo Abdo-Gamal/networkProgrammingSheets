@@ -1,0 +1,8 @@
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\seri extera\BinarySerializationExtraInfo\obj\Debug\BinarySerializationExtraInfo.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\seri extera\BinarySerializationExtraInfo\obj\Debug\BinarySerializationExtraInfo.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\seri extera\BinarySerializationExtraInfo\obj\Debug\BinarySerializationExtraInfo.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\seri extera\BinarySerializationExtraInfo\bin\Debug\BinarySerializationExtraInfo.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\seri extera\BinarySerializationExtraInfo\bin\Debug\BinarySerializationExtraInfo.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\seri extera\BinarySerializationExtraInfo\bin\Debug\BinarySerializationExtraInfo.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\seri extera\BinarySerializationExtraInfo\obj\Debug\BinarySerializationExtraInfo.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\seri extera\BinarySerializationExtraInfo\obj\Debug\BinarySerializationExtraInfo.pdb

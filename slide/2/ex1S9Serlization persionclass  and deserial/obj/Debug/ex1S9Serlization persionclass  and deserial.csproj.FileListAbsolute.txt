@@ -1,0 +1,8 @@
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\ex1S9Serlization persionclass  and deserial\obj\Debug\ex1S9Serlization persionclass  and deserial.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\ex1S9Serlization persionclass  and deserial\obj\Debug\ex1S9Serlization persionclass  and deserial.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\ex1S9Serlization persionclass  and deserial\obj\Debug\ex1S9Serlization persionclass  and deserial.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\ex1S9Serlization persionclass  and deserial\bin\Debug\ex1S9Serlization persionclass  and deserial.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\ex1S9Serlization persionclass  and deserial\bin\Debug\ex1S9Serlization persionclass  and deserial.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\ex1S9Serlization persionclass  and deserial\bin\Debug\ex1S9Serlization persionclass  and deserial.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\ex1S9Serlization persionclass  and deserial\obj\Debug\ex1S9Serlization persionclass  and deserial.exe
+G:\fourth_year\422\1-network programming\abdo\slide\lec3\ex1S9Serlization persionclass  and deserial\obj\Debug\ex1S9Serlization persionclass  and deserial.pdb

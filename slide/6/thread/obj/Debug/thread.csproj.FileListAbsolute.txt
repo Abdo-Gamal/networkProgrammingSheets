@@ -1,0 +1,8 @@
+G:\fourth_year\422\1-network programming\abdo\slide\6\thread\obj\Debug\thread.csproj.AssemblyReference.cache
+G:\fourth_year\422\1-network programming\abdo\slide\6\thread\obj\Debug\thread.csproj.SuggestedBindingRedirects.cache
+G:\fourth_year\422\1-network programming\abdo\slide\6\thread\obj\Debug\thread.csproj.CoreCompileInputs.cache
+G:\fourth_year\422\1-network programming\abdo\slide\6\thread\bin\Debug\thread.exe.config
+G:\fourth_year\422\1-network programming\abdo\slide\6\thread\bin\Debug\thread.exe
+G:\fourth_year\422\1-network programming\abdo\slide\6\thread\bin\Debug\thread.pdb
+G:\fourth_year\422\1-network programming\abdo\slide\6\thread\obj\Debug\thread.exe
+G:\fourth_year\422\1-network programming\abdo\slide\6\thread\obj\Debug\thread.pdb
